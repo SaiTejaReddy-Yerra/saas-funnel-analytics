@@ -25,9 +25,8 @@ of simulated production data.
 ```
 saas_funnel_project/
 │
-├── 01_data_generation.ipynb     Simulates raw database export
-├── 02_data_cleaning.ipynb       Cleans and validates raw data
-├── 03_sql_analysis.ipynb        SQL analysis — 8 business questions
+├── 01_data_cleaning.ipynb       Cleans and validates raw data
+├── 02_sql_analysis.ipynb        SQL analysis — 8 business questions
 │
 ├── data/
 │   ├── raw/                     Dirty source files as exported
