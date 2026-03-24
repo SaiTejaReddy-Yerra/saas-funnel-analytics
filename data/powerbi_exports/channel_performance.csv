@@ -1,0 +1,7 @@
+channel,total_users,activated,paid_converted,subscribers,activation_rate_pct,conversion_rate_pct,avg_mrr,estimated_ltv
+referral,14186,10823,2137,2159,76.29,15.06,63.25,759.02
+email,9538,7202,1391,1415,75.51,14.58,62.87,754.4
+organic,28491,21545,4024,4078,75.62,14.12,62.87,754.46
+paid_search,23855,17937,3277,3326,75.19,13.74,61.62,739.38
+unknown,2940,2223,403,417,75.61,13.71,67.06,804.67
+paid_social,19108,14456,2589,2616,75.65,13.55,63.57,762.78

@@ -1,0 +1,4 @@
+device,total_users,activated,paid_converted,activation_rate_pct,conversion_rate_pct
+desktop,49024,39588,9150,80.75,18.66
+tablet,11860,8787,1470,74.09,12.39
+mobile,37234,25811,3201,69.32,8.6
